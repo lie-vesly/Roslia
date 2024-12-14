@@ -1,0 +1,35 @@
+
+
+body{
+    background-color: chocolate;
+}
+
+
+section{
+    background-color: burlywood;
+    margin-top: 100px;
+    margin-left: 25%;
+    height: 80vh;
+    width: 50vw;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-top-color: 5px solid brown;
+}
+
+section label{
+    color: white;
+    position: absolute;
+    left: 34%;
+    bottom: ;
+    justify-content: center;
+    text-align: center;
+    font-size: 50px;
+}
+
+section img{
+    position: relative;
+    margin-top: -258px;
+}
+
+@media screen {
+}
